@@ -1,0 +1,109 @@
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe.config
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\vaneware.pdb
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.csprojAssemblyReference.cache
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.Form1.resources
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.Properties.Resources.resources
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.GenerateResource.cache
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.CoreCompileInputs.cache
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.exe
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.pdb
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.CopyComplete
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\FastColoredTextBox.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\obj\Debug\vaneware.login.resources
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.xml
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\libvideo.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\MediaToolkit.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.AppContext.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Console.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.IO.Compression.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.IO.FileSystem.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Net.Http.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Net.Sockets.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cjwoo\OneDrive\Documents\vaneware\vaneware\vaneware\bin\Debug\MaterialSkin.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe.config
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\vaneware.pdb
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\Bunifu_UI_v1.52.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\FastColoredTextBox.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\libvideo.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\MediaToolkit.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.AppContext.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Console.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Globalization.Calendars.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.IO.Compression.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.IO.FileSystem.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Net.Http.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Net.Sockets.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Xml.ReaderWriter.dll
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.xml
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.xml
+F:\backup from reset\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.csprojAssemblyReference.cache
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.Form1.resources
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.login.resources
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.Properties.Resources.resources
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.GenerateResource.cache
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.CopyComplete
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.exe
+F:\backup from reset\vaneware\vaneware\vaneware\obj\Debug\vaneware.pdb
+E:\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe.config
+E:\vaneware\vaneware\vaneware\bin\Debug\vaneware.exe
+E:\vaneware\vaneware\vaneware\bin\Debug\vaneware.pdb
+E:\vaneware\vaneware\vaneware\bin\Debug\Bunifu_UI_v1.52.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\FastColoredTextBox.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\libvideo.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\MediaToolkit.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\vaneware\vaneware\vaneware\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\vaneware\vaneware\vaneware\bin\Debug\Newtonsoft.Json.xml
+E:\vaneware\vaneware\vaneware\bin\Debug\NReco.VideoConverter.xml
+E:\vaneware\vaneware\vaneware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.Form1.resources
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.login.resources
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.Properties.Resources.resources
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.GenerateResource.cache
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.CopyComplete
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.exe
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.pdb
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.AssemblyReference.cache
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.SuggestedBindingRedirects.cache
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.exe.config
+E:\vaneware\vaneware\vaneware\obj\Debug\vaneware.csproj.CoreCompileInputs.cache
